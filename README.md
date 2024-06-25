@@ -44,9 +44,22 @@ Hello! I'm a passionate **Ethical Hacker**, **Bug Hunter**, and **Penetration Te
 
 ## 📫 Contact Me
 
-- **Email:** your.email@example.com
-- **Facebook:** [Your LinkedIn](https://facebook.com/md.alfaz.official)
-- **Youtube:** [@yourtwitter](https://twitter.com/yourtwitter)
-- **Blog:** [Your Blog]([https://yourblog.com](https://sites.google.com/view/md-alfaz-hossain))
+
+
+<div align="center">
+  <a href="https://www.youtube.com/@alfazinfosec">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/yourprofile](https://facebook.com/md.alfaz.official">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://sites.google.com/view/md-alfaz-hossain">
+    <img src="https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+ 
+</div>
 
 ![Footer](https://via.placeholder.com/1000x200?text=Thanks+for+visiting+my+profile!)
