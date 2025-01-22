@@ -1,6 +1,6 @@
-# Hi 👋 I am 👨‍💻 Ethical Hacker, Bug Hunter, and Penetration Tester etc
+# Hi 👋 I am 👨‍💻 Certified Ethical Hacker, Junior Bug Hunter, and Penetration Tester etc
 
-![Header](https://camo.githubusercontent.com/a891d7d5917bebbdfcedb02348ab06be64822b69e8d1cfdad45e6dc5279f6ca7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966)
+![Header](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
 ## About Me
 
