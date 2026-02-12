@@ -69,17 +69,16 @@
 
 ## 🧾 Certifications
 
-🏅 CEH – Certified Ethical Hacker  
-🏅 ASCP 
-🏅 C)PEH  
-🏅 ACP  
-🏅 C)PTE  
-🏅 C)SA1  
-🏅 CRTA  
-🏅 CNSP  
-🏅 MCRTA  
-🏅 CAPIE  
-🏅 C3SA  
+🏅 CEH – Certified Ethical Hacker.  
+🏅 ASCP - API Security Certified Professional. 
+🏅 C)PEH - Certified Professional Ethical Hacker 
+🏅 ACP - APIsec Certified Practitioner
+🏅 C)PTE - Certified Penetration Testing Engineer 
+🏅 C)SA1 - Certified Security Awareness 1 
+🏅 CRTA - Red Team Analyst  
+🏅 CNSP - Certified Network Security Practitioner 
+🏅 MCRTA - Multi-Cloud Red Teaming Analyst
+🏅 CAPIE - Certified API Hacking Expert 
 
 
 ---
